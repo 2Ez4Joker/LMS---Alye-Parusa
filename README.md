@@ -2,3 +2,7 @@
 
 
 Ноутбук №3 https://colab.research.google.com/drive/1tls4sxHsM2nc4QyRGZbk4YpIYBK48MoE?usp=sharing
+
+https://codeforces.net/contest/230
+
+https://codeforces.net/contest/1359
