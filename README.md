@@ -6,3 +6,9 @@
 https://codeforces.net/contest/230
 
 https://codeforces.net/contest/1359
+
+
+Последнее занятие:
+https://codeforces.net/contest/451
+
+https://codeforces.net/contest/1327
